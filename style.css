@@ -93,23 +93,19 @@ body {
 
 @media (max-width: 480px) {
   .container {
-      padding: 20px; /* Зменшуємо відступи в контейнері */
+      padding: 30px; /* Зменшуємо відступи в контейнері */
   }
 
   .title {
-      font-size: 2rem; /* Менший розмір заголовка */
+      font-size: 4rem; /* Менший розмір заголовка */
   }
 
   .subtitle {
-      font-size: 0.9rem; /* Менший розмір тексту */
-  }
-
-  .features li {
-      font-size: 0.8rem; /* Менший розмір тексту в списку */
+      font-size: 1.5rem; /* Менший розмір тексту */
   }
 
   .cta-button {
-      font-size: 0.9rem; /* Менший розмір тексту кнопки */
-      padding: 8px 15px; /* Зменшуємо розмір кнопки */
+      font-size: 1.3rem; /* Менший розмір тексту кнопки */
+      padding: 20px 40px; /* Зменшуємо розмір кнопки */
   }
 }
