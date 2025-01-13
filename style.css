@@ -104,6 +104,10 @@ body {
       font-size: 1.5rem; /* Менший розмір тексту */
   }
 
+  .features li {
+    font-size: 0.9rem;
+  }
+
   .cta-button {
       font-size: 1.3rem; /* Менший розмір тексту кнопки */
       padding: 20px 40px; /* Зменшуємо розмір кнопки */
