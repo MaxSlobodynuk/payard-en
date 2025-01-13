@@ -91,3 +91,25 @@ body {
   background-color: #bde6e6;
 }
 
+@media (max-width: 480px) {
+  .container {
+      padding: 20px; /* Зменшуємо відступи в контейнері */
+  }
+
+  .title {
+      font-size: 2rem; /* Менший розмір заголовка */
+  }
+
+  .subtitle {
+      font-size: 0.9rem; /* Менший розмір тексту */
+  }
+
+  .features li {
+      font-size: 0.8rem; /* Менший розмір тексту в списку */
+  }
+
+  .cta-button {
+      font-size: 0.9rem; /* Менший розмір тексту кнопки */
+      padding: 8px 15px; /* Зменшуємо розмір кнопки */
+  }
+}
