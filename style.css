@@ -22,7 +22,9 @@ body {
 
 .block {
   display: flex;
-  justify-content: center;
+    margin-bottom: 120px;
+    justify-content: center;
+    padding-top: 150px;
 }
 
 .container {
